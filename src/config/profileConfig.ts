@@ -39,11 +39,6 @@ export const profileConfig: ProfileConfig = {
 			url: "dongzhiyu0402@gmail.com",
 			showName: false,
 		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "/rss/",
-			showName: false,
-		},
+		
 	],
 };
